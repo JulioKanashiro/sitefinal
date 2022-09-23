@@ -99,14 +99,13 @@ display: flex;
     display: flex;
     justify-content: center;
 }
-  
-.header ul #aqui {
-font-weight: 1000;
-color: #fff;
-}
 
 a{
     color: #fff;
     text-decoration: none;
 }
 
+.header ul #aqui2 {
+    font-weight: 1000;
+    color: #32b9cd;
+    }

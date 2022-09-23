@@ -39,3 +39,7 @@ border: 2px solid rgb(12, 117, 183);
 border-radius: 4px;
 }
 
+.header ul #aqui {
+    font-weight: 1000;
+    color: #32b9cd;
+    }
