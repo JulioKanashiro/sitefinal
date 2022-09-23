@@ -26,7 +26,7 @@ body {
     display: flex;
     width: 600px;
     justify-content: space-around;
-    color: #32b9cd;
+    color: #ffffff;
     list-style: none;
     align-items: center;
 }
@@ -100,4 +100,13 @@ display: flex;
     justify-content: center;
 }
   
-      
+.header ul #aqui {
+font-weight: 1000;
+color: #fff;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+}
+
